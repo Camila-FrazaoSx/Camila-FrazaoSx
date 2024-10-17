@@ -7,8 +7,8 @@ Camila Alves Frazão
 👾 - VALORANT player
 <div>
   <a href="https://github.com/camila-frazaosx">
-  <img height= "170em" src= "https://github-readme-stats.vercel.app/api?username=camila-frazaosx&show_icons=true&theme=dracula"/>
-  <img height= "170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=camila-frazaosx&show_icons=true&theme=dracula" />
+  <img height= "170em" src= "https://github-readme-stats.vercel.app/api?username=Camila-FrazaoSx&show_icons=true&theme=dracula"/>
+  <img height= "170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-FrazaoSx&show_icons=true&theme=dracula" />
 </div>
 <div>
   <a href="https://www.linkedin.com/in/camila-alves-frazão-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
