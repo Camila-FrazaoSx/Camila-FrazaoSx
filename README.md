@@ -1,10 +1,8 @@
 Camila Alves Frazão
 
-🖥️ - Programmer | ADVPL - PROTHEUS
-
-💍 - Dating
-
-👾 - VALORANT player
+🖥️ Programmer | ADVPL - PROTHEUS |
+💍 Dating |
+👾 VALORANT player
 <div>
   <a href="https://github.com/camila-frazaosx">
   <img height= "170em" src= "https://github-readme-stats.vercel.app/api?username=Camila-FrazaoSx&show_icons=true&theme=dracula"/>
